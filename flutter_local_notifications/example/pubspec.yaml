@@ -14,6 +14,7 @@ dependencies:
   path_provider: ^2.0.0
   rxdart: ^0.26.0-nullsafety.1
   shared_preferences: ^2.0.1
+  awesome_notifications: ^0.0.6+10
 
 dev_dependencies:
   flutter_driver:
@@ -28,6 +29,7 @@ flutter:
   assets:
     - icons/
     - sound/
+    - assets/
 
 environment:
   sdk: ">=2.12.0-0 <3.0.0"
